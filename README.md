@@ -121,7 +121,3 @@ Learning Outcomes
 - Implemented user authentication and role-based access control.
 - Gained practical experience in full-stack application development.
 
-
-Suraj Yadav
-
-Java Developer | Spring Boot | MySQL | React
